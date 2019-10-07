@@ -1,9 +1,8 @@
+require('dotenv').config()
 const express = require('express');
 const mongoose = require('mongoose');
-const dotenv = require('dotenv');
 const path = require('path');
 const cors = require('cors');
-require('dotenv').config()
 
 const routes = require('./routes');
 
@@ -11,7 +10,6 @@ const routes = require('./routes');
 const app = express();
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@tattour-m5yy0.mongodb.net/tattoour?retryWrites=true&w=majority`
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true });
-
 
 // GET, PUT, POST, DELETE
 
