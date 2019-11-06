@@ -1078,9 +1078,9 @@ mongoose-legacy-pluralize@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
 
-mongoose@^5.7.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.7.3.tgz#8bd46b561eaed1a4d4a6cdd81d5b23c2e30da846"
+mongoose@^5.7.5:
+  version "5.7.5"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.7.5.tgz#b787b47216edf62036aa358c3ef0f1869c46cdc2"
   dependencies:
     bson "~1.1.1"
     kareem "2.3.1"
