@@ -1,6 +1,8 @@
-# Tattoour
+<p align="center">
+  <img src="./images/logo.png">
+</p>
 
-![Tattou Logo](./images/logo.png)
+# Tattoour
 
 ## O que é?
 
