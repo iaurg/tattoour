@@ -10,7 +10,7 @@ O usuário acessa o site via web ou mobile e escolhe uma sala com data e horári
 
 ## Como foi feito?
 
-O projeto foi desenvolvido usando como base JavaScript, ao redor das bibliotecas React (Web), React Native(Mobile/App) e NodeJs + Express(back-end). É uma aplicação simples criada para treinar e relembrar alguns conceitos importantes ensinados durante o Bootcamp.
+O projeto foi desenvolvido usando JavaScript, ao redor das bibliotecas React (Web), React Native(Mobile/App) e NodeJs + Express(back-end). É uma aplicação simples criada para treinar e relembrar alguns conceitos importantes ensinados durante o Bootcamp.
 
 ## Quero testar.
 
