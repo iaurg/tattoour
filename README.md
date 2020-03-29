@@ -1,5 +1,7 @@
 # Tattoour
 
+![Tattou Logo](./images/logo.png)
+
 ## O que é?
 
 Um app e site para agendamento e reserva de salas para tatuar.
@@ -7,6 +9,12 @@ Um app e site para agendamento e reserva de salas para tatuar.
 ## Como funciona?
 
 O usuário acessa o site via web ou mobile e escolhe uma sala com data e horário para que possa agendar e combinar com o dono da sala. O dono da sala possui acesso a um painel para controle das pessoas que estão interessadas em sua sala e edição/atualização de salas existentes atreladas a ele.
+
+## Telas
+
+![Tela 1 Tattoour](./images/screen-1.jpg)
+![Tela 2 Tattoour](./images/screen-2.jpg)
+![Tela 3 Tattoour](./images/screen-3.jpg)
 
 ## Como foi feito?
 
