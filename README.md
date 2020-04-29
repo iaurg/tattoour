@@ -44,5 +44,5 @@ Iniciando o app (mobile):
 ```
 cd mobile //Para acessar a pasta do frontend
 yarn //Para instalar os pacotes e dependências
-yarn start //Para iniciar o, é necessário que o backend esteja rodando para fazer as consultas. E ter um emulador nativo ou Expo para rodar
+yarn start //Para iniciar o aplicativo, é necessário que o backend esteja rodando para fazer as consultas. E ter um emulador nativo ou Expo para rodar
 ```
